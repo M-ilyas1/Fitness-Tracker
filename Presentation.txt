@@ -1,0 +1,42 @@
+Fitness Tracker in Java
+
+Summary:
+
+Our Java program demonstrates the development of a Fitness Tracker application. The program allows users to input various fitness activities along with their durations. It then calculates the total duration of all activities and provides feedback based on the user's fitness goals.
+
+Key Components:
+
+Activity Class:
+    * Represents a fitness activity with properties for name and duration.
+    * Provides a constructor to initialize activity properties and getter methods to retrieve them.
+
+Tracker Class:
+    * Manages a list of activities using an ArrayList.
+    * Includes methods to add activities, calculate total duration, and retrieve the list of activities.
+
+FitnessTracker Class (Main Class):
+    * Serves as the entry point of the program.
+    * Utilizes a Scanner object to receive user input.
+    * Demonstrates the functionality of the Tracker class by adding dummy data and performing calculations.
+    * Provides feedback to the user based on their total exercise duration.
+
+
+
+Functionalities:
+    * Adding activities with their durations.
+    * Calculating the total duration of all activities.
+    * Providing feedback based on the total exercise duration.
+
+
+User Interaction:
+    * Demonstration of user input using the Scanner class.
+    * Display of the summary of activities and feedback messages.
+
+Conclusion:
+    * Recap of the program's functionalities and structure.
+    * Emphasis on the importance of fitness tracking for personal health goals.
+    * Invitation for questions and further discussion.
+
+
+Closing Remark:
+    The Fitness Tracker application not only showcases fundamental Java programming concepts but also highlights the significance of incorporating technology in maintaining a healthy lifestyle.
